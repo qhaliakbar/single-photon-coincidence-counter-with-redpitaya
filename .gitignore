@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Spyder
+.spyproject/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Vivado leftovers
+*.jou
+*.log
